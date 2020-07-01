@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "909639708526",
+    "firebase_url": "https://redux-in-work.firebaseio.com",
+    "project_id": "redux-in-work",
+    "storage_bucket": "redux-in-work.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909639708526:android:07d2749b969f8ade",
+        "android_client_info": {
+          "package_name": "com.redux.redux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909639708526-43j220jn5scf20qnminrcls7ceelgjr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOA-IX5mQUxt_pc0aHPHX2wxbMrbaF-J8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
